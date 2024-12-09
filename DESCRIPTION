@@ -2,6 +2,7 @@ Package: defactor
 Title: Tools for Managing and Annotating Data Frame Variables with
         Labels
 Version: 0.1.0
+Language: en-US
 Author: Shneior Shprintsin <shnyor360@gmail.com>
 Authors@R: person(given = "Shneior",
                     family = "Shprintsin",
@@ -21,4 +22,4 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2024-12-09 00:12:11 UTC; shn
+Packaged: 2024-12-09 00:31:50 UTC; shn
